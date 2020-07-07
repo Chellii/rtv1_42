@@ -38,3 +38,7 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 * Demo 3:
 
 <img src="demo3.PNG" width="500" height="500">
+
+* Demo 4:
+
+<img src="demo4.PNG" width="500" height="500">
