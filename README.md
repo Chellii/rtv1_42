@@ -29,12 +29,12 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 
 * Demo 1:
 
-<img src="demo1.PNG" width="300" height="300">
+<img src="demo1.PNG" width="500" height="500">
 
 * Demo 2:
 
-<img src="demo2.PNG" width="300" height="300">
+<img src="demo2.PNG" width="500" height="500">
 
 * Demo 3:
 
-<img src="demo3.PNG" width="300" height="300">
+<img src="demo3.PNG" width="500" height="500">
