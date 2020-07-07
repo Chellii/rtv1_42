@@ -29,11 +29,9 @@ void	free_list(t_list_pars *lt)
 
 void	free_all(t_all *all)
 {
-	t_all	*all_tracker;
 	t_obj	*obj_tracker;
 	t_light	*lights_tracker;
 
-	all_tracker = all;
 	obj_tracker = all->obj;
 	while (obj_tracker != NULL)
 	{
