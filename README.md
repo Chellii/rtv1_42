@@ -29,4 +29,12 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 
 * Demo 1:
 
-![](demo1.PNG)
+<img src="demo1.PNG" width="100" height="100">
+
+* Demo 2:
+
+![](demo2.PNG)
+
+* Demo 3:
+
+![](demo3.PNG)
