@@ -29,12 +29,12 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 
 * Demo 1:
 
-<img src="demo1.PNG" width="100" height="100">
+<img src="demo1.PNG" width="300" height="300">
 
 * Demo 2:
 
-![](demo2.PNG)
+<img src="demo2.PNG" width="300" height="300">
 
 * Demo 3:
 
-![](demo3.PNG)
+<img src="demo3.PNG" width="300" height="300">
