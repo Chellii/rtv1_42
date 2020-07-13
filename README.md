@@ -11,7 +11,7 @@ Clone or download this repository and run : ```make```
 # Usage
 
 ```./RTv1 [filename]```
-```filename``` must contain path to a valid scene.
+*filename* must contain path to a valid scene.
 If the scene is not valid, RTv1 will write corresponding error on standard output.
 
 # Scene Syntax
@@ -24,6 +24,8 @@ Scene is a file which describes camera, lights and geometric objects that have t
 * Infinite Cone.
 
 if you want to test your own scene check the ```file_indicator``` in repository 'files' to have an idea how to write a valid scene.
+
+
 
 # Screenshots
 
