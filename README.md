@@ -44,3 +44,7 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 * Demo 4:
 
 <img src="demo4.PNG" width="500" height="500">
+
+# Contact me
+
+Feel free to email me (eloiriaglichaimae2@gmail.com) about any bugs or anything you find wrong in the code.
