@@ -10,7 +10,7 @@ Clone or download this repository and run : ```make```
 
 # Usage
 
-```./RTv1 [filename]```
+```./RTv1 [filename]``` <br>
 *filename* must contain path to a valid scene.
 If the scene is not valid, RTv1 will write corresponding error on standard output.
 
