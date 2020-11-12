@@ -4,17 +4,17 @@ RTv1 is a simple ray tracing program. It parses a 3D scene from a file and appli
 Note: this project was made for MacOS.
 In case you don't have one, you can check this link https://github.com/ilkou/minilibx it explains how to work with minilibx in windows / linux
 
-# Installation
+## Installation
 
 Clone or download this repository and run : ```make```
 
-# Usage
+## Usage
 
 ```./RTv1 [filename]``` <br>
 *filename* must contain path to a valid scene.
 If the scene is not valid, RTv1 will write corresponding error on standard output.
 
-# Scene Syntax
+## Scene Syntax
 
 Scene is a file which describes camera, lights and geometric objects that have to be rendered. This project can render such geometric shapes:
 
@@ -27,24 +27,24 @@ if you want to test your own scene check the ```file_indicator``` in repository 
 
 
 
-# Screenshots
+## Screenshots
 
-* Demo 1:
+###### Demo 1:
 
 <img src="demo1.PNG" width="500" height="500">
 
-* Demo 2:
+###### Demo 2:
 
 <img src="demo2.PNG" width="500" height="500">
 
-* Demo 3:
+###### Demo 3:
 
 <img src="demo3.PNG" width="500" height="500">
 
-* Demo 4:
+###### Demo 4:
 
 <img src="demo4.PNG" width="500" height="500">
 
-# Contact me
+## Contact me
 
 Feel free to email me (eloiriaglichaimae2@gmail.com) about any bugs or anything you find wrong in the code.
